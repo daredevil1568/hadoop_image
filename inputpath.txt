@@ -1,0 +1,14 @@
+/user/hduser/input/demo002.jpg
+/user/hduser/input/input/4demo.png
+/user/hduser/input/input/3demo.png
+/user/hduser/input/input/2demo.png
+/user/hduser/input/input/1demo.png
+/user/hduser/input/input/5demo.png
+/user/hduser/input/input/6demo.png
+/user/hduser/input/input/7demo.png
+/user/hduser/input/input/8demo.png
+/user/hduser/input/input/9demo.png
+/user/hduser/input/input/10demo.png
+/user/hduser/input/input/11demo.png
+/user/hduser/input/input/12demo.png
+/user/hduser/input/input/13demo.png

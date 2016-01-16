@@ -7,4 +7,3 @@
 7. We can run this program using runproject.sh
 
 8. javacv.jar is a jar file required to use javacv in your program
-9. facedetection.java is a program which uses javacv library for face detection . The input to the program is the image folder and it stores the generated image in another folder. Few of the output generated is stored in output folder
